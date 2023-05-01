@@ -153,8 +153,10 @@ o	A spam dataset: To train and test the MultinomialNB algorithm, you will need a
 OUTPUT AND SNAPSHOTS
 
  
- 
- 
+ ![image](https://user-images.githubusercontent.com/89627274/235495624![image](https://user-images.githubusercontent.com/89627274/235495662-0482744e-e99b-43bd-9c13-4c251dcae933.png)a9fb1d6b-639f-4955-9832-90ab77209080.png)
+![image](https://user-images.githubusercontent.com/89627274/235495889-c6f47eb8-6868-445a-8fd7-56acdb234528.png)
+ ![Uploading image.png…]()
+
  
  
 
